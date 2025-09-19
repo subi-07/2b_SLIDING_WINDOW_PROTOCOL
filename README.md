@@ -59,9 +59,11 @@ c.close()
 ```
 ## OUPUT
 Client
+
 <img width="889" height="273" alt="image" src="https://github.com/user-attachments/assets/a5619b3b-0e12-496f-ad1e-8eeb24c4a1e5" />
 
 Server
+
 <img width="557" height="187" alt="image" src="https://github.com/user-attachments/assets/8478b9ae-9f9b-40c6-86bb-fef0af9e53dc" />
 
 ## RESULT
